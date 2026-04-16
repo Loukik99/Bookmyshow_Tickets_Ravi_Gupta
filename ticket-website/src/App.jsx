@@ -38,7 +38,7 @@ function App() {
       {/* Header */}
       <header className="text-center pt-8 sm:pt-12 pb-6 px-4">
         <img
-          src="/assets/logo.jpeg"
+          src="assets/logo.jpeg"
           alt="Team Designated"
           className="w-20 h-14 sm:w-24 sm:h-16 object-contain mx-auto rounded-lg mb-4"
         />

@@ -54,7 +54,7 @@ const TicketCard = forwardRef(({ ticketData }, ref) => {
 
           {/* Logo */}
           <img
-            src="/assets/logo.jpeg"
+            src="assets/logo.jpeg"
             alt="Team Designated"
             className="w-16 h-12 sm:w-20 sm:h-14 object-contain flex-shrink-0 rounded"
             crossOrigin="anonymous"

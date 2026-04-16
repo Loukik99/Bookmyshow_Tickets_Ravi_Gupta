@@ -10,10 +10,10 @@ export const SHOW = {
 };
 
 export const CATEGORIES = {
-  PLATINUM: { accent: "#C0C0C0", labelBg: "#C0C0C0", labelText: "#1a1a2e", bar: "/assets/platinum.png" },
-  GOLD:     { accent: "#FFD700", labelBg: "#FFD700", labelText: "#1a1a2e", bar: "/assets/gold.png" },
-  SILVER:   { accent: "#C0C0C0", labelBg: "#C0C0C0", labelText: "#1a1a2e", bar: "/assets/silver.png" },
-  BALCONY:  { accent: "#E8975E", labelBg: "#E8975E", labelText: "#1a1a2e", bar: "/assets/balcony.png" },
+  PLATINUM: { accent: "#C0C0C0", labelBg: "#C0C0C0", labelText: "#1a1a2e", bar: "assets/platinum.png" },
+  GOLD:     { accent: "#FFD700", labelBg: "#FFD700", labelText: "#1a1a2e", bar: "assets/gold.png" },
+  SILVER:   { accent: "#C0C0C0", labelBg: "#C0C0C0", labelText: "#1a1a2e", bar: "assets/silver.png" },
+  BALCONY:  { accent: "#E8975E", labelBg: "#E8975E", labelText: "#1a1a2e", bar: "assets/balcony.png" },
 };
 
 export function generateTicketId(category, seq) {
