@@ -11,6 +11,12 @@
     <link rel="stylesheet" crossorigin href="/assets/index-CmA0h2bm.css">
   </head>
   <body>
+    <script>
+      // Redirect old QR codes (root URL with hash) to verify.html
+      if (window.location.hash && window.location.hash.length > 1) {
+        window.location.replace('verify.html' + window.location.hash);
+      }
+    </script>
     <div id="root"></div>
   </body>
 </html>
