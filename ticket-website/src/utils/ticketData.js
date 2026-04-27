@@ -2,7 +2,7 @@ export const SHOW = {
   name: "Kal Ki Chinta Nahi Karta",
   subtitle: "ft. Ravi Gupta",
   eventId: "ET00494827",
-  venue: "Jawaharlal Nehru Memorial Hall",
+  venue: "Jawaharlal Nehru Memorial Hall Pune",
   date: "Saturday, 23 May",
   time: "8:00 PM",
   organizer: "Team Designated",

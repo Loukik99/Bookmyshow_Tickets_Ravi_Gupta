@@ -1,6 +1,6 @@
 # Ticket Generator - Kal Ki Chinta Nahi Karta ft. Ravi Gupta
 
-Offline ticket generator for the comedy show **"Kal Ki Chinta Nahi Karta"** ft. **Ravi Gupta**, organized by **Team Designated** at **Jawaharlal Nehru Memorial Hall**.
+Offline ticket generator for the comedy show **"Kal Ki Chinta Nahi Karta"** ft. **Ravi Gupta**, organized by **Team Designated** at **Jawaharlal Nehru Memorial Hall Pune**.
 
 ## Live Website
 
